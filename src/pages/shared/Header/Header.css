@@ -1,0 +1,10 @@
+.header nav a{
+    border-radius: 10px;
+    text-decoration: none;
+    margin-right: 20px;
+
+}
+
+.header nav a:hover{
+    color: goldenrod;
+}
